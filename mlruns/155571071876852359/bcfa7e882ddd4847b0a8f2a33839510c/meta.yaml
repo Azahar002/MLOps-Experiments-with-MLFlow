@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155571071876852359/bcfa7e882ddd4847b0a8f2a33839510c/artifacts
+end_time: 1744416922271
+entry_point_name: ''
+experiment_id: '155571071876852359'
+lifecycle_stage: active
+run_id: bcfa7e882ddd4847b0a8f2a33839510c
+run_name: beautiful-hare-931
+run_uuid: bcfa7e882ddd4847b0a8f2a33839510c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744416916153
+status: 3
+tags: []
+user_id: azzu

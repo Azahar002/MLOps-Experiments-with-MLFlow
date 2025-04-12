@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ad9648d80c5e42c2a787fde407258d77/artifacts
+deleted_time: 1744416111313
+end_time: 1744287180279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ad9648d80c5e42c2a787fde407258d77
+run_name: victorious-moose-400
+run_uuid: ad9648d80c5e42c2a787fde407258d77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744287180274
+status: 4
+tags: []
+user_id: azzu

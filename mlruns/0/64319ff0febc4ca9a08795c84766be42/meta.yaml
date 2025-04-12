@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/64319ff0febc4ca9a08795c84766be42/artifacts
+end_time: 1744288154094
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64319ff0febc4ca9a08795c84766be42
+run_name: languid-fish-260
+run_uuid: 64319ff0febc4ca9a08795c84766be42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744288153395
+status: 3
+tags: []
+user_id: azzu

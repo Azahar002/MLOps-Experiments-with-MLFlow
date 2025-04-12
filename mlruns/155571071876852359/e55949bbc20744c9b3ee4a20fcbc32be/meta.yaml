@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155571071876852359/e55949bbc20744c9b3ee4a20fcbc32be/artifacts
+end_time: 1744418306438
+entry_point_name: ''
+experiment_id: '155571071876852359'
+lifecycle_stage: active
+run_id: e55949bbc20744c9b3ee4a20fcbc32be
+run_name: delightful-koi-483
+run_uuid: e55949bbc20744c9b3ee4a20fcbc32be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744418299815
+status: 3
+tags: []
+user_id: azzu

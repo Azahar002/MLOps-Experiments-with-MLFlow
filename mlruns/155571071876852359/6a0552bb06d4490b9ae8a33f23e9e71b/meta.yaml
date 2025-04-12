@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155571071876852359/6a0552bb06d4490b9ae8a33f23e9e71b/artifacts
+end_time: 1744416798141
+entry_point_name: ''
+experiment_id: '155571071876852359'
+lifecycle_stage: active
+run_id: 6a0552bb06d4490b9ae8a33f23e9e71b
+run_name: fun-deer-86
+run_uuid: 6a0552bb06d4490b9ae8a33f23e9e71b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744416797681
+status: 4
+tags: []
+user_id: azzu

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/6ede4c5862b740438497eda8544367b8/artifacts
+deleted_time: 1744416111266
+end_time: 1744287237669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6ede4c5862b740438497eda8544367b8
+run_name: melodic-fawn-368
+run_uuid: 6ede4c5862b740438497eda8544367b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744287237654
+status: 4
+tags: []
+user_id: azzu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155571071876852359/0bb38c73ae68423498b7185b9ab63949/artifacts
+end_time: 1744416352471
+entry_point_name: ''
+experiment_id: '155571071876852359'
+lifecycle_stage: active
+run_id: 0bb38c73ae68423498b7185b9ab63949
+run_name: blushing-pug-166
+run_uuid: 0bb38c73ae68423498b7185b9ab63949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744416351502
+status: 3
+tags: []
+user_id: azzu

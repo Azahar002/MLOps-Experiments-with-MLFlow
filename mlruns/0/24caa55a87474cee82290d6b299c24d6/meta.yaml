@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/24caa55a87474cee82290d6b299c24d6/artifacts
+deleted_time: 1744416111284
+end_time: 1744288132956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 24caa55a87474cee82290d6b299c24d6
+run_name: dashing-jay-908
+run_uuid: 24caa55a87474cee82290d6b299c24d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744288132370
+status: 4
+tags: []
+user_id: azzu

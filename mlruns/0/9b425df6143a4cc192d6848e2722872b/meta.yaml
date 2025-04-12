@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9b425df6143a4cc192d6848e2722872b/artifacts
+deleted_time: 1744416111270
+end_time: 1744287921496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9b425df6143a4cc192d6848e2722872b
+run_name: capricious-roo-822
+run_uuid: 9b425df6143a4cc192d6848e2722872b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744287921482
+status: 4
+tags: []
+user_id: azzu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/155571071876852359/3d248cdf640c43eb85f5c0f338e203ec/artifacts
+end_time: 1744418265479
+entry_point_name: ''
+experiment_id: '155571071876852359'
+lifecycle_stage: active
+run_id: 3d248cdf640c43eb85f5c0f338e203ec
+run_name: popular-vole-711
+run_uuid: 3d248cdf640c43eb85f5c0f338e203ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744418259836
+status: 3
+tags: []
+user_id: azzu

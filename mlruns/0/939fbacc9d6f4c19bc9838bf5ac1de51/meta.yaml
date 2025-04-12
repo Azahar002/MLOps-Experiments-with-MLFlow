@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/939fbacc9d6f4c19bc9838bf5ac1de51/artifacts
+end_time: 1744287478308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 939fbacc9d6f4c19bc9838bf5ac1de51
+run_name: awesome-moth-773
+run_uuid: 939fbacc9d6f4c19bc9838bf5ac1de51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744287478291
+status: 3
+tags: []
+user_id: azzu

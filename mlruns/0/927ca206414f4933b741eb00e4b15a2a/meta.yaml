@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/927ca206414f4933b741eb00e4b15a2a/artifacts
+end_time: 1744287277520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 927ca206414f4933b741eb00e4b15a2a
+run_name: enchanting-fox-258
+run_uuid: 927ca206414f4933b741eb00e4b15a2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744287277504
+status: 3
+tags: []
+user_id: azzu
